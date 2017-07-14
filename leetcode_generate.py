@@ -471,12 +471,12 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
                     dirname = '{id}-{title}'.format(id=str(item.question_id).zfill(3), title=item.question__title_slug)
                     language = ''
                     language_lst = [i['lang'] for i in item.solutions if i['lang'] in self.languages]
-                    while language_lst:
-                        lan = language_lst.pop()
-                        language += '[{language}]({repo}/blob/master/{dirname})'.format(language=lan.capitalize(), repo=CONFIG['repo'],dirname=dirname)
+                    # while language_lst:
+                    lan = language_lst.pop()
+                    language += '[{language}]({repo}/blob/master/{dirname})'.format(language=lan.capitalize(), repo=CONFIG['repo'],dirname=dirname)
                                                                                                  # , title=item.question__title_slug,
                                                                                                  # ext=self.prolangdict[lan].ext)
-                        language += ' '
+                        # language += ' '
                 else:
                     language = ''
 
@@ -502,16 +502,16 @@ def do_job(leetcode):
     leetcode.load()
     print('Leetcode load self info')
 
-    if len(sys.argv) == 1:
-        # simple download
-        # leetcode.dowload()
-        # we use multi thread
-        print('download all leetcode solutions')
-        leetcode.download()
-    else:
-        for qid in sys.argv[1:]:
-            print('begin leetcode by id: {id}'.format(id=qid))
-            leetcode.download_by_id(int(qid))
+    # if len(sys.argv) == 1:
+    #     # simple download
+    #     # leetcode.dowload()
+    #     # we use multi thread
+    #     print('download all leetcode solutions')
+    #     leetcode.download()
+    # else:
+    #     for qid in sys.argv[1:]:
+    #         print('begin leetcode by id: {id}'.format(id=qid))
+    #         leetcode.download_by_id(int(qid))
 
     print('Leetcode finish dowload')
     leetcode.write_readme()
