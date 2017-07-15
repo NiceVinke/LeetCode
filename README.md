@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2017-07-14 17:25:16
+Update time:  2017-07-15 15:29:11
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -577,7 +577,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |633|[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)||[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Easy|
 |634|[find-the-derangement-of-an-array](https://leetcode.com/problems/find-the-derangement-of-an-array)|:lock:|[:memo:](https://leetcode.com/articles/find-derangements/)|Medium|
 |635|[design-log-storage-system](https://leetcode.com/problems/design-log-storage-system)||[:memo:](https://leetcode.com/articles/design-log-storage/)|Medium|
-|637|[average-of-levels-in-binary-tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)||[:memo:](https://leetcode.com/articles/average-of-levels/)|Easy|
+|637|[average-of-levels-in-binary-tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Cpp](https://github.com/i-square/LeetCode/blob/master/637-average-of-levels-in-binary-tree)|[:memo:](https://leetcode.com/articles/average-of-levels/)|Easy|
 |638|[shopping-offers](https://leetcode.com/problems/shopping-offers)||[:memo:](https://leetcode.com/articles/shopping-offers/)|Medium|
 |639|[decode-ways-ii](https://leetcode.com/problems/decode-ways-ii)||[:memo:](https://leetcode.com/articles/decode-ways-ii/)|Hard|
-|640|[solve-the-equation](https://leetcode.com/problems/solve-the-equation)||[:memo:](https://leetcode.com/articles/solve-the-equation/)|Medium|
+|640|[solve-the-equation](https://leetcode.com/problems/solve-the-equation)|[Cpp](https://github.com/i-square/LeetCode/blob/master/640-solve-the-equation)|[:memo:](https://leetcode.com/articles/solve-the-equation/)|Medium|
