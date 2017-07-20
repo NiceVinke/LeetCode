@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2017-07-20 12:38:31
+Update time:  2017-07-20 18:06:30
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **174   /   569** problems
+I have solved **175   /   569** problems
 while there are **107** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -18,7 +18,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |:---:|:---:|:---:|:---:|:---:|
 |1|[two-sum](https://leetcode.com/problems/two-sum)|[Cpp](https://github.com/i-square/LeetCode/blob/master/001-two-sum)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
 |2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Cpp](https://github.com/i-square/LeetCode/blob/master/002-add-two-numbers)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
-|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
+|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Cpp](https://github.com/i-square/LeetCode/blob/master/003-longest-substring-without-repeating-characters)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|||Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|||Medium|
