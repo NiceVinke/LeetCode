@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2017-07-20 10:40:09
+Update time:  2017-07-20 12:38:31
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **173   /   569** problems
+I have solved **174   /   569** problems
 while there are **107** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -383,7 +383,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |382|[linked-list-random-node](https://leetcode.com/problems/linked-list-random-node)|[Cpp](https://github.com/i-square/LeetCode/blob/master/382-linked-list-random-node)||Medium|
 |383|[ransom-note](https://leetcode.com/problems/ransom-note)|[Cpp](https://github.com/i-square/LeetCode/blob/master/383-ransom-note)||Easy|
 |384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array)|[Cpp](https://github.com/i-square/LeetCode/blob/master/384-shuffle-an-array)||Medium|
-|385|[mini-parser](https://leetcode.com/problems/mini-parser)|||Medium|
+|385|[mini-parser](https://leetcode.com/problems/mini-parser)|[Cpp](https://github.com/i-square/LeetCode/blob/master/385-mini-parser)||Medium|
 |386|[lexicographical-numbers](https://leetcode.com/problems/lexicographical-numbers)|||Medium|
 |387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string)|[Cpp](https://github.com/i-square/LeetCode/blob/master/387-first-unique-character-in-a-string)||Easy|
 |388|[longest-absolute-file-path](https://leetcode.com/problems/longest-absolute-file-path)|||Medium|

@@ -83,12 +83,6 @@ def rep_unicode_in_code(code):
         code = code.replace(item, chr(int(item[2:], 16)))    # item[2:]去掉\u
     return code
 
-
-def check_and_make_dir(dirname):
-    if not os.path.exists(dirname):
-        os.mkdir(dirname)
-
-
 ProgLang = namedtuple('ProgLang', ['language', 'ext', 'annotation'])
 
 ProgLangList = [ProgLang('cpp', 'cpp', '//'),
@@ -381,7 +375,12 @@ class Leetcode:
 
         dirname = '{id}-{title}'.format(id=str(qid).zfill(3), title=qtitle)
         print('begin download ' + dirname)
-        check_and_make_dir(dirname)
+        
+        if not os.path.exists(dirname):
+            os.mkdir(dirname)
+        else:
+            print('question:{}-{} already exist'.format(qid, qtitle))
+            return
 
         olds = {}
         counter = 1
