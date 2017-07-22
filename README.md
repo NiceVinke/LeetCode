@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2017-07-20 18:06:30
+Update time:  2017-07-22 12:02:23
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **175   /   569** problems
+I have solved **177   /   569** problems
 while there are **107** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -21,9 +21,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Cpp](https://github.com/i-square/LeetCode/blob/master/003-longest-substring-without-repeating-characters)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|||Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
-|6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|||Medium|
+|6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[Cpp](https://github.com/i-square/LeetCode/blob/master/006-zigzag-conversion)||Medium|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Cpp](https://github.com/i-square/LeetCode/blob/master/007-reverse-integer)||Easy|
-|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
+|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[Cpp](https://github.com/i-square/LeetCode/blob/master/008-string-to-integer-atoi)||Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Cpp](https://github.com/i-square/LeetCode/blob/master/009-palindrome-number)||Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|||Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
