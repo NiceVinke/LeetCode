@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2017-07-23 22:51:44
+Update time:  2017-07-31 14:06:27
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **180   /   573** problems
+I have solved **182   /   577** problems
 while there are **107** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -589,3 +589,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |646|[maximum-length-of-pair-chain](https://leetcode.com/problems/maximum-length-of-pair-chain)|[Cpp](https://github.com/i-square/LeetCode/blob/master/646-maximum-length-of-pair-chain)||Medium|
 |647|[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings)|[Cpp](https://github.com/i-square/LeetCode/blob/master/647-palindromic-substrings)||Medium|
 |648|[replace-words](https://leetcode.com/problems/replace-words)|||Medium|
+|649|[dota2-senate](https://leetcode.com/problems/dota2-senate)|||Medium|
+|650|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)|[Cpp](https://github.com/i-square/LeetCode/blob/master/650-2-keys-keyboard)||Medium|
+|651|[4-keys-keyboard](https://leetcode.com/problems/4-keys-keyboard)|||Medium|
+|652|[find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees)|[Cpp](https://github.com/i-square/LeetCode/blob/master/652-find-duplicate-subtrees)||Medium|
